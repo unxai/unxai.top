@@ -1,3 +1,1 @@
-# unxai.top
-
-Project scaffold initialized.
+# Project scaffold initialized.
